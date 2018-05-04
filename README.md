@@ -164,7 +164,7 @@ I Suggest the Following based on my experience :
 - [x] Install Java, JDK and export Path to bash file
 - [x] Install Appium Globally
 - [x] Download Selenium, Appium and Selenium Standalone JARS
-- []  Add External JARS to Java Build Path
+- [ ] Add External JARS to Java Build Path
 - [x] Install Android Studio and download the packages
 - [x] Install Genymotion Emulator and Launch the Emulator
 - [x] Install Xcode Dependencies
@@ -175,7 +175,7 @@ I Suggest the Following based on my experience :
 - [ ] Creation One-time Configuration of `DesiredCapabilities` for `Android`
 - [ ] Installing Dependencies for CI tool
 
-* MORE TO FOLLOW......
+- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `MORE TO FOLLOW...`
 
 If you need any help with the installation, please contact me on `anoop.ambunhi@gmail.com`
 

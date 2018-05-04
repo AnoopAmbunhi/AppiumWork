@@ -177,7 +177,7 @@ I Suggest the Following based on my experience :
 
 - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `MORE TO FOLLOW...`
 
-If you need any help with the installation, please contact me on `anoop.ambunhi@gmail.com`
+If you need any help with the installation, please contact me on `*anoop.ambunhi@gmail.com*`
 
 
 

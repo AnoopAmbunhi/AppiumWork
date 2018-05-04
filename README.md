@@ -75,18 +75,23 @@ $echo $ANDROID_HOME
 ```
 
 10. Open the `Android Studio` and go to `Preferences -> System Settings -> Android SDK` & Download the Necessary Package.
-Add Image here
 
-11. I use `Genymotion Virtual Emulator` for Android and i love it. You can try it too.
+![alt text](https://github.com/AnoopAmbunhi/AppiumWork/blob/master/AppiumWork-master/AndroidStudioPackage.png)
+
+11. I use `Genymotion Virtual Emulator` for Android and i love it. You will :heart: it too.
 
 Follow the Steps to install Genymotion :
 https://docs.genymotion.com/Content/01_Get_Started/Installation.htm
 
 * Launch Genymotion and Click "Settings"→ ADB and set the path for Android-SDK.
 
+![alt text](https://github.com/AnoopAmbunhi/AppiumWork/blob/master/AppiumWork-master/GenyMotion1.png)
+
 * [Add a New Virtual Device by clicking on the "Add" button](https://docs.genymotion.com/Content/02_Application/Adding_a_new_virtual_device/Adding%20a%20new_virtual_device.htm)
 
 * Select the Virtual Device Created and Click "Start".
+
+![alt text](https://github.com/AnoopAmbunhi/AppiumWork/blob/master/AppiumWork-master/GenyMotion2.png)
 
 * Launch Appium and Navigate to Android Settings. Change the Capabilities as per the selected Virtual device.
 

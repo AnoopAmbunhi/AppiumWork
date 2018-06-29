@@ -11,7 +11,9 @@ public class AndroidDemo1 extends baseDesired {
 		// TODO Auto-generated method stub
 		//baseDesired base = new baseDesired();
 		AndroidDriver<AndroidElement> driver = baseDesired.AndroidCapabilities1();
-		System.out.println("DSFsdf");;
+		driver.findElementsByClassName("classname").get(2).click();// 0,1,2 are index
+		driver.findElementByAndroidUIAutomator("attribute('value')");
+		
 	}
 
 }

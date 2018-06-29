@@ -5,5 +5,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="cglib-nodep-3.2.4" level="project" />
+    <orderEntry type="library" name="client-combined-3.4.0-nodeps" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-3.11.0" level="project" />
   </component>
 </module>

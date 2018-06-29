@@ -9,7 +9,8 @@ public class AndroidDemo1 extends baseDesired {
 
 	public static void main(String[] args) throws MalformedURLException {
 		// TODO Auto-generated method stub
-		AndroidDriver<AndroidElement> driver = baseDesired.AndroidCapabilities();
+		//baseDesired base = new baseDesired();
+		AndroidDriver<AndroidElement> driver = baseDesired.AndroidCapabilities1();
 	}
 
 }

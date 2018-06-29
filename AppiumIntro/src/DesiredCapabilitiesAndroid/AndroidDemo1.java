@@ -11,6 +11,7 @@ public class AndroidDemo1 extends baseDesired {
 		// TODO Auto-generated method stub
 		//baseDesired base = new baseDesired();
 		AndroidDriver<AndroidElement> driver = baseDesired.AndroidCapabilities1();
+		System.out.println("DSFsdf");;
 	}
 
 }
